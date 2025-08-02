@@ -29,8 +29,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
-<img width="318" height="420" alt="image" src="https://github.com/user-attachments/assets/cec549a9-d89d-45ac-a560-7f4c54a45d33" />
-<img width="2240" height="1260" alt="image" src="https://github.com/user-attachments/assets/131390c5-c81f-4484-80fb-7f5bf8f96064" />
+<img src="https://github.com/user-attachments/assets/cec549a9-d89d-45ac-a560-7f4c54a45d33" height="200" />
+<img src="https://github.com/user-attachments/assets/131390c5-c81f-4484-80fb-7f5bf8f96064" height="200" />
 
 ###
 

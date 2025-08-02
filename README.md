@@ -22,10 +22,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/krechmeralex" target="_blank">
+  <a href="https://www.linkedin.com/in/alexkrechmer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:krechmeralex@gmail.com">
+  <a href="mailto:alex.krechmer@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>

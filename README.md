@@ -33,5 +33,5 @@
 ###
 
 <!--
-**krechmeralex/krechmeralex** is a ✨ special ✨ repo because its README.md appears on your GitHub profile.
+**alexKrechmer/alexKrechmer** is a ✨ special ✨ repo because its README.md appears on your GitHub profile.
 -->
